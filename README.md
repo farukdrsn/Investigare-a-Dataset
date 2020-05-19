@@ -1,1 +1,1 @@
-# Investigare-a-Dataset
+# Investigate-a-Dataset
